@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SonardemoApplication {
+public class Sonardemo1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SonardemoApplication.class, args);
+		SpringApplication.run(Sonardemo1Application.class, args);
 	}
 
 }
